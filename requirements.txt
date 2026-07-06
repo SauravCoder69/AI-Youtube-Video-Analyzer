@@ -1,0 +1,5 @@
+streamlit==1.45.1
+python-dotenv==1.1.0
+agno==1.5.6
+groq
+youtube-transcript-api==1.1.0
